@@ -1,0 +1,25 @@
+body {
+    background-image: url('Images/background.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+}
+
+.myimage {
+    height: 350px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 ,p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color:red;
+}
+
+.hobbies {
+    background-color: white;
+}
